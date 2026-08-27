@@ -1,5 +1,10 @@
 # SagaSmith Narrative Skills
 
+> [!IMPORTANT]
+> **本仓库已归档。** 它不再是发布输入、兼容回退或新 issue 的接收位置。当前 Skills 位于 [sagasmith-narrative/skills](https://github.com/SagaSmithAI/sagasmith-narrative/tree/main/skills)。
+>
+> **This repository is archived.** It is no longer a release input, compatibility fallback, or destination for new issues. Current Skills live in [sagasmith-narrative/skills](https://github.com/SagaSmithAI/sagasmith-narrative/tree/main/skills).
+
 [Website](https://sagasmithai.github.io) · [Platform overview](https://github.com/SagaSmithAI/.github/blob/main/profile/README.md) · [Hosted service](https://github.com/SagaSmithAI/SagaSmith-service) · [Content catalog](https://github.com/SagaSmithAI/SagaSmith-dnd-content-library)
 
 MCP-first Agent procedures for system-neutral, long-form narrative tabletop role-playing through `SagaSmith-narrative-mcp`.
